@@ -12,7 +12,7 @@
     "username": "shiv",
     "password": "12345",
     "expiresAt": "2026-02-10",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "9d9ef595157",
