@@ -3,9 +3,9 @@
   {
     "id": "ad74e9a009a77f7d",
     "username": "anon",
-    "password": "123",
-    "expiresAt": "2027-01-11",
-    "allowOffline": true 
+    "password": "1234",
+    "expiresAt": "2025-01-11",
+    "allowOffline": false
   },
   {
     "id": "75ea171378a166e8",
